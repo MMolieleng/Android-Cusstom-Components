@@ -1,0 +1,4 @@
+include ':wiinc-lib'
+include ':wiinc-ui-lib'
+include ':app'
+rootProject.name = "Using Custom Components"
